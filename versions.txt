@@ -1,3 +1,7 @@
 hiii this is version 1 of the project
 
-Heyy, there are some bugs which are needed to be figured out and this is the version 2.
+Heyy, there are some bugs which are needed to be figured out and this is the version 2.0
+
+
+Now there are some updates which enhances the performance included in the version 3.0
+ok ok
